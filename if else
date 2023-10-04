@@ -1,0 +1,5 @@
+number=int("enter any number"))
+if number 2%=0
+  if number 3%==0
+  print("number is disvisible by 2 and not 3")
+  print("number is divis
